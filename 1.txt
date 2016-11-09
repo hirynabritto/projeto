@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Editado
+=======
+Editando para testes
+>>>>>>> aed0d50ff2fa6a345873188a2ab8096d9a560ac7
+
+
+	NOVA EDIÇÃO
